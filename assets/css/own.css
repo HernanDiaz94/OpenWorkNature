@@ -1,0 +1,166 @@
+.rombo1 {
+    max-width: 100px; 
+     height: 100px; 
+   /*  border: 2px solid #555; */
+     background: #ed7d31;
+     -webkit-transform: rotate(45deg);
+     -moz-transform: rotate(45deg);
+     -ms-transform: rotate(45deg);
+     -o-transform: rotate(45deg);
+     transform: rotate(45deg);
+}
+.rombo1 {
+    max-width: 100px; 
+     height: 100px; 
+   /*  border: 2px solid #555; */
+     background: #ed7d31;
+     -webkit-transform: rotate(45deg);
+     -moz-transform: rotate(45deg);
+     -ms-transform: rotate(45deg);
+     -o-transform: rotate(45deg);
+     transform: rotate(45deg);
+}
+.rombo2 {
+    max-width: 100px; 
+     height: 100px; 
+   /*  border: 2px solid #555; */
+     background: #ffa739;
+     -webkit-transform: rotate(45deg);
+     -moz-transform: rotate(45deg);
+     -ms-transform: rotate(45deg);
+     -o-transform: rotate(45deg);
+     transform: rotate(45deg);
+}
+.rombo3 {
+    max-width: 100px; 
+     height: 100px; 
+   /*  border: 2px solid #555; */
+     background: #ffe3a4;
+     -webkit-transform: rotate(45deg);
+     -moz-transform: rotate(45deg);
+     -ms-transform: rotate(45deg);
+     -o-transform: rotate(45deg);
+     transform: rotate(45deg);
+}
+.rombo3 {
+    max-width: 100px; 
+     height: 100px; 
+   /*  border: 2px solid #555; */
+     background: #ffe3a4;
+     -webkit-transform: rotate(45deg);
+     -moz-transform: rotate(45deg);
+     -ms-transform: rotate(45deg);
+     -o-transform: rotate(45deg);
+     transform: rotate(45deg);
+}
+.rombo4 {
+    max-width: 100px; 
+     height: 100px; 
+   /*  border: 2px solid #555; */
+     background: #203864;
+     -webkit-transform: rotate(45deg);
+     -moz-transform: rotate(45deg);
+     -ms-transform: rotate(45deg);
+     -o-transform: rotate(45deg);
+     transform: rotate(45deg);
+}
+.rombo5 {
+    max-width: 100px; 
+     height: 100px; 
+   /*  border: 2px solid #555; */
+     background: #2f5596;
+     -webkit-transform: rotate(45deg);
+     -moz-transform: rotate(45deg);
+     -ms-transform: rotate(45deg);
+     -o-transform: rotate(45deg);
+     transform: rotate(45deg);
+}
+.rombo6 {
+    max-width: 100px; 
+     height: 100px; 
+   /*  border: 2px solid #555; */
+     background: #8fabdd;
+     -webkit-transform: rotate(45deg);
+     -moz-transform: rotate(45deg);
+     -ms-transform: rotate(45deg);
+     -o-transform: rotate(45deg);
+     transform: rotate(45deg);
+}
+
+.menu_own{
+	    border-bottom: solid #33333336 0.27px;
+}
+.circular--square {
+  border-radius: 50%;
+}
+#slick .slick-list {
+  margin-left: -15px;
+  margin-right: -15px;
+}
+
+#slick .slick-slide {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+#slick .slick-slide:focus {
+  outline: none;
+}
+
+
+.haveAproject2 {
+background-color:#ebebed;/*-image: linear-gradient(to right, #ed7d31 0%, #ffa739, #ffe3a4, #8fabdd, #2f5596, #203864 100% );*/
+    padding-top: 44px;
+    padding-bottom: 24px;
+}
+/*********************************************************************/
+/* Bootstrap 4 Multiple Item Carousel */
+/*********************************************************************/
+/* medium - display 2  */
+@media (min-width: 768px) {
+
+    .carousel-inner .carousel-item-right.active,
+    .carousel-inner .carousel-item-next {
+        transform: translateX(50%);
+    }
+
+    .carousel-inner .carousel-item-left.active,
+    .carousel-inner .carousel-item-prev {
+        transform: translateX(-50%);
+    }
+}
+
+/* large - display 3 */
+@media (min-width: 992px) {
+
+    .carousel-inner .carousel-item-right.active,
+    .carousel-inner .carousel-item-next {
+        transform: translateX(33%);
+    }
+
+    .carousel-inner .carousel-item-left.active,
+    .carousel-inner .carousel-item-prev {
+        transform: translateX(-33%);
+    }
+}
+
+@media (max-width: 768px) {
+    .carousel-inner .carousel-item>div {
+        display: none;
+    }
+
+    .carousel-inner .carousel-item>div:first-child {
+        display: block;
+    }
+}
+
+.carousel-inner .carousel-item.active,
+.carousel-inner .carousel-item-next,
+.carousel-inner .carousel-item-prev {
+    display: flex;
+}
+
+.carousel-inner .carousel-item-right,
+.carousel-inner .carousel-item-left {
+    transform: translateX(0);
+}
