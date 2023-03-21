@@ -58,7 +58,7 @@
                 <div class="single-slider slider-height d-flex align-items-center" data-background="assets/img/hero/slider21.jpg"> <!--Imagen de portada de inicio lado derecho -->
                     <div class="container">
                         <div class="row d-flex align-items-center">
-                            <div class="col-lg-4 col-md-8 col-sm-12 d-none d-md-block">
+                            <div class="col-lg-4 col-md-6 col-sm-12 d-none d-md-block">
                                 <div class="hero__caption">
                                     <img src="assets/img/hero/Logo2.png" alt="logoAltOWN">
                                 </div>
@@ -73,10 +73,10 @@
                                     <h2 class="text-uppercase" 
                                     style="color: #000;
                                         text-align:justify-content-center;
-                                        -webkit-text-stroke: #fff 0.1px;
-                                        font-weight: 700;" 
+                                        -webkit-text-stroke: #000 1px;
+                                        font-weight: bold;" 
                                         data-animation="fadeInLeft" data-delay=".6s">Nos adaptamos a las necesidades
-                                        de nuestros clientes en cualquiera de las etapas de un proceso productivo.</h2>
+                                        de nuestros clientes, en cualquiera de las etapas del proceso productivo.</h2>
                                     </p>
                                     <!-- Hero-btn -->
                                     <div class="hero__btn text-center" data-animation="fadeInLeft" data-delay=".6s">
@@ -84,7 +84,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-5">
+                            <div class="col-lg-4">
                                 <!--<div class="hero__img d-none d-lg-block" data-animation="fadeInRight" data-delay="1s">
                                     <img src="assets/img/hero/slider1.jpg" alt="">
                                 </div>-->
