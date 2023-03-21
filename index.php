@@ -76,7 +76,7 @@
                                         -webkit-text-stroke: #000 1px;
                                         font-weight: bold;" 
                                         data-animation="fadeInLeft" data-delay=".6s">Nos adaptamos a las necesidades
-                                        de nuestros clientes, en cualquiera de las etapas del proceso productivo.</h2>
+                                        de nuestros clientes en cualquiera de las etapas del proceso productivo.</h2>
                                     </p>
                                     <!-- Hero-btn -->
                                     <div class="hero__btn text-center" data-animation="fadeInLeft" data-delay=".6s">
@@ -201,9 +201,9 @@
         </div>
         <!-- What We do End-->
         <!-- We Create Start -->
-        <div class="we-create-area d-none d-sm-block" style="background-color:#ebebed">
+        <div class="we-create-area d-none d-sm-block" style="background-color:#e8e4ec">
             <div class="container pt-5 pb-5" style="
-				background-image: url(assets/img/hero/we-create.png);
+				background-image: url(assets/img/hero/we-create.jpg);
 				background-repeat: no-repeat;
 				background-size: contain;
 				margin-left: inherit;">
