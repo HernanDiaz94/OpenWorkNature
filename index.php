@@ -70,12 +70,10 @@
                                         <h1 data-animation="fadeInLeft" data-delay=".4s">NOS ADAPTAMOS A LAS NECESIDADES DE NUESTROS CLIENTES EN CUALQUIERA DE LAS ETAPAS DE UN PROCESO PRODUCTIVO
                                     -->
                                     <p>
-                                    <h2 class="text-uppercase" 
-                                    style="color: #000;
+                                    <h2 class="text-uppercase" style="color: #000;
                                         text-align:justify-content-center;
                                         -webkit-text-stroke: #000 1px;
-                                        font-weight: bold;" 
-                                        data-animation="fadeInLeft" data-delay=".6s">Nos adaptamos a las necesidades
+                                        font-weight: bold;" data-animation="fadeInLeft" data-delay=".6s">Nos adaptamos a las necesidades
                                         de nuestros clientes en cualquiera de las etapas del proceso productivo.</h2>
                                     </p>
                                     <!-- Hero-btn -->
@@ -426,17 +424,14 @@
         <!-- Carousel End -->
 
         <!-- have-project Start-->
-        <div class="have-project d-none d-md-block" style="
-    background-image: url(assets/img/team/have.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    /* margin-left: inherit; */
-    ">
+        <div class="have-project d-none d-md-block" 
+            style="background-image: url(assets/img/team/have.png);
+            background-repeat: no-repeat;
+            background-size: contain;"
+        >
             <?php include "proyect.php" ?>
         </div>
-        <div class="have-project  d-md-none" style="
-    background-color:#ebebed
-    ">
+        <div class="have-project  d-md-none" style="background-color:#ebebed">
             <?php include "proyect.php" ?>
         </div>
         <!-- have-project End -->

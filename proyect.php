@@ -1,7 +1,7 @@
             <div class="container" >
                 <div class="haveAproject"style="padding-top: 64px;
     padding-bottom: 78px;
-    padding-right: 45px;" >
+    padding-right: 105px;" >
                     <div class="row d-flex align-items-center">
                         <div class="col-xl-7 col-lg-9 col-md-6">
                             <div class="wantToWork-caption">
