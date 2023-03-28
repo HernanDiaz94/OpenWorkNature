@@ -72,8 +72,8 @@
                                     <p>
                                     <h2 class="text-uppercase" style="color: #000;
                                         text-align:justify-content-center;
-                                        -webkit-text-stroke: #000 1px;
-                                        font-weight: bold;" data-animation="fadeInLeft" data-delay=".6s">Nos adaptamos a las necesidades
+                                        -webkit-text-stroke:  0.2px #000;
+                                        font-weight: 500;" data-animation="fadeInLeft" data-delay=".6s">Nos adaptamos a las necesidades
                                         de nuestros clientes en cualquiera de las etapas del proceso productivo.</h2>
                                     </p>
                                     <!-- Hero-btn -->
@@ -425,13 +425,10 @@
 
         <!-- have-project Start-->
         <div class="have-project d-none d-md-block" 
-            style="background-image: url(assets/img/team/have.png);
+            style="background-image: url(assets/img/team/have.jpg);
             background-repeat: no-repeat;
-            background-size: contain;"
+            background-size: cover;"
         >
-            <?php include "proyect.php" ?>
-        </div>
-        <div class="have-project  d-md-none" style="background-color:#ebebed">
             <?php include "proyect.php" ?>
         </div>
         <!-- have-project End -->

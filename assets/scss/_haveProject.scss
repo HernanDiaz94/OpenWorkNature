@@ -2,7 +2,11 @@
 	padding: 64px 69px 54px 78px;
 	background-repeat: no-repeat;
 	border-radius: 10px;
-    position: relative;
+
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    text-align: right;
     @media #{$md}{
         padding: 42px 69px 36px 57px;
     }
@@ -26,7 +30,7 @@
     }
     .wantToWork-caption{
         h2{
-            color: #fff;
+            color: #000;
             font-size: 40px;
             font-weight: 700;
             line-height: 1.4;
@@ -41,7 +45,7 @@
             }
         }
         p{
-            color: #fff;
+            color: #000;
             @media #{$lg}{
                 padding-right: 20px;
             }
