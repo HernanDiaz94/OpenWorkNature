@@ -72,8 +72,8 @@
                                     <p>
                                     <h2 class="text-uppercase" style="color: #000;
                                         text-align:justify-content-center;
-                                        -webkit-text-stroke:  0.2px #000;
-                                        font-weight: 500;" data-animation="fadeInLeft" data-delay=".6s">Nos adaptamos a las necesidades
+                                        -webkit-text-stroke:  0.75px #fff;
+                                        font-weight: 700;" data-animation="fadeInLeft" data-delay=".6s">Nos adaptamos a las necesidades
                                         de nuestros clientes en cualquiera de las etapas del proceso productivo.</h2>
                                     </p>
                                     <!-- Hero-btn -->
