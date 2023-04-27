@@ -237,243 +237,114 @@
                                 <h3>Gonzalo Morales</h3>
                                 <p>Lic. en Biotecnología</p>
                             </div>
-							
                         </div>
-						<div class="media contact-info">
-                            <span class="contact-info__icon"><i class="ti-user"></i></span>
-                            <div class="media-body">                                
-								<h3>Fernando Macias</h3>
-                                <p>Lic. en Gestión Ambiental</p>
-                            </div>
-							
-                        </div>	
 					</div>
 					<div class="col-md-6 mt-sm-20 ">
 						<div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-user"></i></span>
                             <div class="media-body">                                
 								<h3>Virginia Córdoba</h3>
-                                <p>Mgter. en Conservación y Gestión Ambiental- Bióloga</p>
+                                <p>Mgter. en Conservación y Gestión Ambiental - Bióloga</p>
                             </div>
-							
                         </div>		
-						<div class="media contact-info">
-                            <span class="contact-info__icon"><i class="ti-user"></i></span>
-                            <div class="media-body">                                
-								<h3>Susan Córdoba</h3>
-                                <p>Lic. en Geología</p>
-                            </div>
-							
-                        </div>	
 					</div>
 				</div>
 			</div>
 			<div class="section-top-border ">
 				<h3 class="mb-30">Staff Asociado</h3>
 				<div class="row">
-					<div class="col-md-4">
+					<div class="col-md-3">
 						<div class="media contact-info">
-                            <span class="contact-info__icon"><i class="ti-user"></i></span>
+                            <span class="contact-info__icon"><i class="ti-layout-grid3-alt" style="color: #2b4b80;"></i></span>
                             <div class="media-body">                                
-								<h3>Silvia Farías</h3>
-                                <p>Dra. en Química</p>
+								<h3>Lic. en Ciencias Biológicas</h3><br>
                             </div>
 							
                         </div>		
 						<div class="media contact-info">
-                            <span class="contact-info__icon"><i class="ti-user"></i></span>
+                        <span class="contact-info__icon"><i class="ti-layout-grid3-alt" style="color: #2b4b80;"></i></span>
                             <div class="media-body">                                
-								<h3>Olga Reynoso</h3>
-                                <p>Lic. en Química</p>
+								<h3>Lic. en Biotecnología</h3><br>
                             </div>
 							
                         </div>	
 						<div class="media contact-info">
-                            <span class="contact-info__icon"><i class="ti-user"></i></span>
+                        <span class="contact-info__icon"><i class="ti-layout-grid3-alt" style="color: #2b4b80;"></i></span>
                             <div class="media-body">                                
-								<h3>Luis Cointte</h3>
-                                <p>Técnico</p>
+								<h3>Lic. en Geología</h3><br>
                             </div>
 							
                         </div>	
 					</div>
 					
-					<div class="col-md-4">
+					<div class="col-md-3">
 						<div class="media contact-info">
-                            <span class="contact-info__icon"><i class="ti-user"></i></span>
+                        <span class="contact-info__icon"><i class="ti-layout-grid3-alt" style="color: #2b4b80;"></i></span>
                             <div class="media-body">                                
-								<h3>Cristian Miranda</h3>
-                                <p>Lic. en Higiene y Seguridad</p>
+								<h3>Lic. en Geografía</h3><br>
                             </div>
-							
                         </div>		
 						<div class="media contact-info">
-                            <span class="contact-info__icon"><i class="ti-user"></i></span>
+                        <span class="contact-info__icon"><i class="ti-layout-grid3-alt" style="color: #2b4b80;"></i></span>
                             <div class="media-body">                                
-								<h3>Jorge Gabach</h3>
-                                <p>Ing. Civil</p>
+								<h3>Lic. en Química</h3><br>
                             </div>
                         </div>	
-						
-							
-						
 						<div class="media contact-info">
-                            <span class="contact-info__icon"><i class="ti-user"></i></span>
+                        <span class="contact-info__icon"><i class="ti-layout-grid3-alt" style="color: #2b4b80;"></i></span>
                             <div class="media-body">                                
-								<h3>Eugenia Segura</h3>
-                                <p>Lic. en Ciencias Biológicas</p>
+								<h3>Lic. en Gestión Ambiental</h3><br>
                             </div>
-							
                         </div>					
 					</div>
-					<div class="col-md-4">
-						<div class="media contact-info">
-                            <span class="contact-info__icon"><i class="ti-user"></i></span>
-                            <div class="media-body">                                
-								<h3>Gisella Rodriguez</h3>
-                                <p>Ing. Agrónoma</p>
-                            </div>
-							
-                        </div>		
-						<div class="media contact-info">
-                            <span class="contact-info__icon"><i class="ti-user"></i></span>
-                            <div class="media-body">                                
-								<h3>Uriel Flores</h3>
-                                <p>Lic. en Geografía</p>
-                            </div>
-							
-                        </div>						
-						<div class="media contact-info">
-                            <span class="contact-info__icon"><i class="ti-user"></i></span>
-                            <div class="media-body">                                
-								<h3>Belen Leguizamón</h3>
-                                <p>Ing. en Informática</p>
-                            </div>
-							
-                        </div>	
-					</div>
-					<div class="col-md-4">
-						<div class="media contact-info">
-                            <span class="contact-info__icon"><i class="ti-user"></i></span>
-                            <div class="media-body">                                
-								<h3>Marcelo López Acuña </h3>
-                                <p>Abogado</p>
-                            </div>
-							
-                        </div>
 
+					<div class="col-md-3">
+                    <div class="media contact-info">
+                        <span class="contact-info__icon"><i class="ti-layout-grid3-alt" style="color: #2b4b80;"></i></span>
+                            <div class="media-body">                                
+								<h3>Lic. en Recursos Humanos</h3><br>
+                            </div>
+                    </div>	
+                    <div class="media contact-info">
+                        <span class="contact-info__icon"><i class="ti-layout-grid3-alt" style="color: #2b4b80;"></i></span>
+                            <div class="media-body">                                
+								<h3>Lic. en Comunicación Social</h3><br>
+                            </div>
+                        </div>					
+						<div class="media contact-info">
+                        <span class="contact-info__icon"><i class="ti-layout-grid3-alt" style="color: #2b4b80;"></i></span>
+                            <div class="media-body">                                
+								<h3>Lic. en Higiene y Seguridad</h3><br>
+                            </div>
+                        </div>	
+					</div>
 
-						<div class="media contact-info">
-                            <span class="contact-info__icon"><i class="ti-user"></i></span>
+					<div class="col-md-3">
+                    <div class="media contact-info">
+                        <span class="contact-info__icon"><i class="ti-layout-grid3-alt" style="color: #2b4b80;"></i></span>
                             <div class="media-body">                                
-								<h3>Dalma Diaz</h3>
-                                <p>Lic. en Geología</p>
-                            </div>
-                        </div>
-						
-						<div class="media contact-info">
-                            <span class="contact-info__icon"><i class="ti-user"></i></span>
-                            <div class="media-body">                                
-								<h3>Jorge Granillo</h3>
-                                <p>Logistico</p>
-                            </div>
-                        </div>
-					</div>	
-
-					<div class="col-md-4">
-						<div class="media contact-info">
-                            <span class="contact-info__icon"><i class="ti-user"></i></span>
-                            <div class="media-body">                                
-								<h3>Mario David Richard</h3>
-                                <p>Ing. Agrimensor</p>
-                            </div>
-                        </div>		
-						<div class="media contact-info">
-                            <span class="contact-info__icon"><i class="ti-user"></i></span>
-                            <div class="media-body">                                
-								<h3>Franco Richard</h3>
-                                <p>Tec. Topógrafo</p>
+								<h3>Ing. Agrimensor</h3><br>
                             </div>
                         </div>	
-						
-						<div class="media contact-info">
-                            <span class="contact-info__icon"><i class="ti-user"></i></span>
+                        <div class="media contact-info">
+                        <span class="contact-info__icon"><i class="ti-layout-grid3-alt" style="color: #2b4b80;"></i></span>
                             <div class="media-body">                                
-								<h3>Hernan Diaz</h3>
-                                <p>Administrador Sitio Web</p>
-                            </div>
-                        </div>
-					</div>
-						
-						<!--Inicio Agregados Octubre 2021 -->
-						<div class="col-md-4">
-						<div class="media contact-info">
-                            <span class="contact-info__icon"><i class="ti-user"></i></span>
-                            <div class="media-body">                                
-								<h3>Augusto Urueña</h3>
-                                <p>Téc. en Higiene y Seguridad</p>
-                            </div>
-                        </div>
-						<div class="media contact-info">
-                            <span class="contact-info__icon"><i class="ti-user"></i></span>
-                            <div class="media-body">                                
-								<h3>Eduardo Vega</h3>
-                                <p>Lic. en Geología</p>
+								<h3>Ing. Civil</h3><br>
                             </div>
                         </div>	
-						
 						<div class="media contact-info">
-                            <span class="contact-info__icon"><i class="ti-user"></i></span>
+                        <span class="contact-info__icon"><i class="ti-layout-grid3-alt" style="color: #2b4b80;"></i></span>
                             <div class="media-body">                                
-								<h3>Marcela Iturres</h3>
-                                <p>Lic. en Comunicación Social</p>
-                            </div>
-                        </div>
-					</div>
-					
-					<div class="col-md-4">
-						<div class="media contact-info">
-                            <span class="contact-info__icon"><i class="ti-user"></i></span>
-                            <div class="media-body">                                
-								<h3>Carla Villagra</h3>
-                                <p>Lic. en Higiene y Seguridad</p>
+								<h3>Topógrafo</h3><br>
                             </div>
                         </div>	
-						<!--	Aqui va otro nuevo usuario pero se agrega abajo 
-						<div class="media contact-info">
-                            <span class="contact-info__icon"><i class="ti-user"></i></span>
+                        <div class="media contact-info">
+                        <span class="contact-info__icon"><i class="ti-layout-grid3-alt" style="color: #2b4b80;"></i></span>
                             <div class="media-body">                                
-								<h3>Carla Villagra</h3>
-                                <p>Lic. en Higiene y Seguridad</p>
+								<h3>Logística Integral</h3><br>
                             </div>
-                        </div>
-						-->
+                        </div>	
 					</div>
-					
-					<div class="col-md-4">
-						
-						<div class="media contact-info">
-                            <span class="contact-info__icon"><i class="ti-user"></i></span>
-                            <div class="media-body">                                
-								<h3>Laura Gabach</h3>
-                                <p>
-									Dra. en Cs. Quimicas <br>
-									Lic. en Biologia
-								</p>
-								
-                            </div>
-                        </div>
-						<!--	Aqui va otro nuevo usuario pero se agrega abajo 
-						<div class="media contact-info">
-                            <span class="contact-info__icon"><i class="ti-user"></i></span>
-                            <div class="media-body">                                
-								<h3>Carla Villagra</h3>
-                                <p>Lic. en Higiene y Seguridad</p>
-                            </div>
-                        </div>
-						-->
-					</div>
-					<!--Fin Agregados Octubre 2021 -->
 					
 				</div>
 			</div>
@@ -528,23 +399,6 @@
 	
 	<!-- End ARCHIVOS INSCRIPCIONES -->
 	
-               <!-- have-project Start-->
-         <div class="have-project d-none d-md-block" style="
-    background-image: url(assets/img/team/have.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    /* margin-left: inherit; */
-    ">
-			<?php include "proyect.php" ?>
-        </div>
-         <div class="have-project  d-md-none" style="
-    background-color:#ebebed
-    ">
-			<?php include "proyect.php" ?>
-        </div>		
-        <!-- have-project End -->
-
-
     </main>
    <footer>
 
