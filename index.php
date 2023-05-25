@@ -55,26 +55,23 @@
         <!-- Slider Area Start-->
         <div class="slider-area ">
             <div class="slider-active">
-                <div class="single-slider slider-height d-flex align-items-center" data-background="assets/img/hero/slider21.webp"> <!--Imagen de portada de inicio lado derecho -->
+                <div class="single-slider slider-height d-flex align-items-center" data-background="assets/img/hero/slider21.webp">  <!--Imagen de portada de inicio lado derecho -->
                     <div class="container">
                         <div class="row d-flex align-items-center">
-                            <div class="col-lg-4 col-md-6 col-sm-12 d-none d-md-block">
+                            <div class="col-lg-8 col-md-6 col-sm-12 d-none d-md-block">
                                 <div class="hero__caption">
                                     <!-- <img src="assets/img/hero/Logo2.png" alt="logoAltOWN"> -->
                                 </div>
                             </div>
-
-                            <div class="col-lg-4 col-md-6 col-sm-12">
+                            <div class="col-lg-4 col-md-6 col-sm-12" style="padding-top:200px">
                                 <div class="hero__caption">
-                                    <!--                                 
-                                        <h1 data-animation="fadeInLeft" data-delay=".4s">NOS ADAPTAMOS A LAS NECESIDADES DE NUESTROS CLIENTES EN CUALQUIERA DE LAS ETAPAS DE UN PROCESO PRODUCTIVO
-                                    -->
                                     <p>
-                                    <h2 class="text-uppercase" style="color: #ed7d31;
-                                        text-align:justify-content-center;
-                                        -webkit-text-stroke:  2px #000;
-                                        font-weight: 800;" data-animation="fadeInLeft" data-delay=".6s">Nos adaptamos a las necesidades
-                                        de nuestros clientes en cualquiera de las etapas del proceso productivo.</h2>
+                                        <h2 class="text-uppercase" 
+                                            style="color: #000; text-align:justify-content-right; font-weight: 700; "
+                                            data-animation="fadeInLeft" 
+                                            data-delay=".6s">
+                                            Nos adaptamos a las necesidades de nuestros clientes en cualquiera de las etapas del proceso productivo.
+                                        </h2>
                                     </p>
                                     <!-- Hero-btn -->
                                     <div class="hero__btn text-center" data-animation="fadeInLeft" data-delay=".6s">
@@ -82,15 +79,9 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4">
-                                <!--<div class="hero__img d-none d-lg-block" data-animation="fadeInRight" data-delay="1s">
-                                    <img src="assets/img/hero/slider1.jpg" alt="">
-                                </div>-->
-                            </div>
                         </div>
                     </div>
                 </div>
-
             </div>
         </div>
         <!-- Slider Area End-->
