@@ -145,7 +145,6 @@
 					<a href="#"><img src="images/fotos23/23F18.JPG"   title="image18" width="500px"  height="350px"></a>
 					<a href="#"><img src="images/fotos23/23F19.JPG"   title="image19" width="500px"  height="350px"></a>
 					<a href="#"><img src="images/fotos23/23F20.JPG"   title="image20" width="500px"  height="350px"></a>
-
 				</div>
 				<nav>	
 					<span class="dg-prev">&lt;</span>

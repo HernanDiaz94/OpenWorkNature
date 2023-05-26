@@ -146,7 +146,6 @@
                                 Análisis de datos y elaboración de informes técnicos. Diseño de contratos y licitaciones.
                                 Trabajos de Topografía, Geodesia Moderna y AeroFotogramétrico: Planimetría topográfica, mensuras mineras, labor legal, petición de mensura y verificación de estados parcelarios.
                                 Logística Integral para campamentos mineros y de exploración.
-
                                 </p>
                             </div>
                         </div>
