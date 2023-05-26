@@ -26,8 +26,7 @@
 											<ul class="submenu">
                                                 <li style="margin-left: 0px;backgound-color:#f5a63e"><a  class="uno" href="services.php#analisis">Análisis de Metales</a></li>
                                                 <li style="margin-left: 0px;backgound-color:#f5a63e"><a  class="dos" href="services.php#procesos">Procesos Químicos</a></li>
-                                                <li style="margin-left: 0px;backgound-color:#f5a63e"><a  class="tres" href="services.php#insumos">Insumos y Consumibles</a></li>
-                                                <li style="margin-left: 0px;backgound-color:#f5a63e"><a  class="cuatro" href="services.php#capacitacion">Consultoría, Capacitación y Soporte</a></li>
+                                                <li style="margin-left: 0px;backgound-color:#f5a63e"><a  class="tres" href="services.php#insumos">Capacitación y Entrenamiento</a></li>
                                                 <li style="margin-left: 0px;backgound-color:#183a66"><a  class="cinco" href="services.php#consultoria">Consultoría y Soporte</a></li>
                                                 <li style="margin-left: 0px;backgound-color:#8eaad4"><a  class="seis" href="services.php#certificaciones">Certificaciones ISO</a></li>
                                                 <li style="margin-left: 0px;backgound-color:#8eaad4"><a  class="siete" href="services.php#soluciones">Soluciones Ambientales</a></li>

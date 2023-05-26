@@ -116,23 +116,14 @@
                              <div class="col-md-2 d-none d-lg-block rombo3 mt-3">
                             </div>
                             <div class="generating-cap" id="capacitacion" name="capacitacion">
-                                <h4 >Insumos y Consumibles</h4>
+                                <h4 >Capacitación y Entrenamiento</h4>
                                 <p >
-                                <b style="color: #2b4b80 ">Ambientales:</b>
-                                Provisión de materiales para monitoreos de aguas: Packs de conservadoras y refrigerantes
-                                diseñados específicamente para mantener la cadena de frío luego de un monitoreo.
-                                Botellas plásticas y de vidrio.
-                                Frascos estériles de 125 y 250 mL para monitoreos bacteriológicos.
-                                Bolsas plásticas para clasificación de residuos.<br>
-                                <b style="color: #2b4b80 ">De Laboratorio:</b>
-                                Material plástico, de vidrio y volumétrico.
-                                Equipos portátiles y de mesada (pHmetro- Conductímetro- Oxímetro-
-                                Espectrofotómetros- Colorímetros- entre otros).
-                                Consumibles (sondas, electrodos, soluciones de calibración).
-                                Termómetros, densímetros. Balanzas.<br>
-                                <b style="color: #2b4b80 ">De Plantas de Tratamientos:</b>
-                                Floculantes, coagulantes, bacterias para optimización de parámetros de tratamiento,
-                                hipoclorito de sodio, entre otros.
+                                <b style="color: #2b4b80 ">Descripcion:</b>
+                                Capacitación en técnicas y gestión de laboratorios y plantas de tratamiento de efluentes. 
+                                Capacitación en Gestión y Manejo de Residuos, Buenas Prácticas Ambientales, Flora y Fauna. 
+                                Capacitación en Manejo defensivo de 4x4, Mediciones laborales, primeros auxilios y socorrismo. 
+                                Diseño de cursos adaptados a los requerimientos del cliente. Modalidad in situ y online.
+                                <br>
                                </p>
                             </div>
                         </div>
@@ -140,43 +131,22 @@
 
                     <div class="col-lg-12 col-md-12">
                         <div class="single-generating d-flex mb-30">
-                            <div class="col-md-2 d-none d-lg-block rombo4 mt-3">
-                            </div>
-                            <div class="generating-cap" id="consultoria" name="consultoria">
-                                <h4>Consultoría, Capacitación y Soporte</h4>
-                                <p >
-                                Asesoramiento en protocolos de toma y preparación de muestras.
-                                Protocolos de análisis químicos | Redacción y control de procedimientos. Gestión de
-                                plantas potabilizadoras y de tratamientos de efluentes cloacales e industriales. Cursos de
-                                mediciones de parámetros en campo y laboratorio | Análisis de datos y elaboración de
-                                informes técnicos | Diseño de contratos y licitaciones. Educación y
-                                comunicación ambiental | Programas de capacitación ambiental Planes de
-                                comunicación | Campañas de preservación ambiental | Programas de inducción.
-                                Trabajos de Topogtafía, Geodesia Moderna y AeroFotogrametrico: Planimetría
-                                topográfica, mensuras mineras, labor legal, petición de mensura y verificación de estados
-                                parcelarios.
-                                Logística Integral para campamentos mineros y de exploración.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-12 col-md-12">
-                        <div class="single-generating d-flex mb-30">
                              <div class="col-md-2 d-none d-lg-block rombo5 mt-3">
                             </div>
                             <div class="generating-cap" id="certificaciones" name="certificaciones">
                                 <h4>Consultoría y Soporte</h4>
                                 <p >
-                                Asesoramiento en protocolos de toma y preparación de muestras y análisis químicos. 
-                                Redacción y control de procedimientos. 
-                                Soporte para acreditación de análisis químicos y certificación de procesos.
-                                Análisis de datos y elaboración de informes técnicos. 
-                                Diseño de Contratos y licitaciones. Revisión Ambiental inicial. 
-                                Elaboración de Política Ambiental. 
+                                Asesoramiento en protocolos de toma y preparación de muestras.
+                                Protocolos de análisis químicos. Redacción y control de procedimientos. 
+                                Gestión de plantas potabilizadoras y de tratamientos de efluentes cloacales e industriales.
+                                Revisión Ambiental inicial. Elaboración de Política Ambiental. 
                                 Planificación de acciones ambientales. Análisis de aspectos ambientales. 
-                                Identificación de requisitos legales y confección de matriz. Auditorías ambientales. 
-                                Auditorías de conformidad. Auditorías integradas y sectoriales. Auditorías de cumplimiento legal. 
-                                Estudios de los factores flora, fauna, limnológicos, arqueológicos y sociales. 
+                                Identificación de requisitos legales y confección de matriz. Auditorías ambientales.
+                                Mediciones Laborales. Mediciones de parámetros en campo y laboratorio. 
+                                Análisis de datos y elaboración de informes técnicos. Diseño de contratos y licitaciones.
+                                Trabajos de Topografía, Geodesia Moderna y AeroFotogramétrico: Planimetría topográfica, mensuras mineras, labor legal, petición de mensura y verificación de estados parcelarios.
+                                Logística Integral para campamentos mineros y de exploración.
+
                                 </p>
                             </div>
                         </div>
