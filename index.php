@@ -404,6 +404,41 @@
                                     <img class="img-fluid" src="logos21/z29.jpg">
                                 </div>
                             </div>
+                            <div class="carousel-item">
+                                <div class="col-lg-2 col-md-6">
+                                    <img class="img-fluid" src="logos21/z30.jpg">
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="col-lg-2 col-md-6">
+                                    <img class="img-fluid" src="logos21/z31.jpg">
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="col-lg-2 col-md-6">
+                                    <img class="img-fluid" src="logos21/z32.jpg">
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="col-lg-2 col-md-6">
+                                    <img class="img-fluid" src="logos21/z33.jpg">
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="col-lg-2 col-md-6">
+                                    <img class="img-fluid" src="logos21/z34.jpg">
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="col-lg-2 col-md-6">
+                                    <img class="img-fluid" src="logos21/z35.jpg">
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="col-lg-2 col-md-6">
+                                    <img class="img-fluid" src="logos21/z36.jpg">
+                                </div>
+                            </div>
 
                             <!-- Nuevo logo aqui
                         <div class="carousel-item">
