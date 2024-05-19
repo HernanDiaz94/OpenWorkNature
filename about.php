@@ -184,29 +184,29 @@
                         <div class="col-md-3">
                             <div class="media contact-info">
                                 <span class="contact-info__icon"><i class="ti-layout-grid3-alt" style="color: #2b4b80;"></i></span>
-                                <div class="media-body">
+                                <div class="media-body" id="1-item">
                                     <h3>Lic. en Ciencias Biológicas</h3><br>
                                 </div>
 
                             </div>
                             <div class="media contact-info">
                                 <span class="contact-info__icon"><i class="ti-layout-grid3-alt" style="color: #2b4b80;"></i></span>
-                                <div class="media-body">
+                                <div class="media-body" id="2-item">
                                     <h3>Lic. en Biotecnología</h3><br>
                                 </div>
 
                             </div>
                             <div class="media contact-info">
                                 <span class="contact-info__icon"><i class="ti-layout-grid3-alt" style="color: #2b4b80;"></i></span>
-                                <div class="media-body">
+                                <div class="media-body" id="3-item">
                                     <h3>Lic. en Geología</h3><br>
                                 </div>
 
                             </div>
                             <div class="media contact-info">
                                 <span class="contact-info__icon"><i class="ti-layout-grid3-alt" style="color: #2b4b80;"></i></span>
-                                <div class="media-body">
-                                    <h3>Lic. en Arqueología</h3><br>
+                                <div class="media-body" id="4-item">
+                                    <h3>Lic. en Geografía</h3><br>
                                 </div>
                             </div>
                         </div>
@@ -214,46 +214,25 @@
                         <div class="col-md-3">
                             <div class="media contact-info">
                                 <span class="contact-info__icon"><i class="ti-layout-grid3-alt" style="color: #2b4b80;"></i></span>
-                                <div class="media-body">
-                                    <h3>Lic. en Geografía</h3><br>
-                                </div>
-                            </div>
-                            <div class="media contact-info">
-                                <span class="contact-info__icon"><i class="ti-layout-grid3-alt" style="color: #2b4b80;"></i></span>
-                                <div class="media-body">
+                                <div class="media-body" id="5-item">
                                     <h3>Lic. en Química</h3><br>
                                 </div>
                             </div>
                             <div class="media contact-info">
                                 <span class="contact-info__icon"><i class="ti-layout-grid3-alt" style="color: #2b4b80;"></i></span>
-                                <div class="media-body">
+                                <div class="media-body" id="6-item">
                                     <h3>Lic. en Gestión Ambiental</h3><br>
                                 </div>
                             </div>
                             <div class="media contact-info">
                                 <span class="contact-info__icon"><i class="ti-layout-grid3-alt" style="color: #2b4b80;"></i></span>
-                                <div class="media-body">
-                                    <h3>Logística Integral</h3><br>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-md-3">
-                            <div class="media contact-info">
-                                <span class="contact-info__icon"><i class="ti-layout-grid3-alt" style="color: #2b4b80;"></i></span>
-                                <div class="media-body">
-                                    <h3>Lic. en Recursos Humanos</h3><br>
+                                <div class="media-body" id="7-item">
+                                    <h3>Lic. en Recursos Naturales</h3><br>
                                 </div>
                             </div>
                             <div class="media contact-info">
                                 <span class="contact-info__icon"><i class="ti-layout-grid3-alt" style="color: #2b4b80;"></i></span>
-                                <div class="media-body">
-                                    <h3>Lic. en Higiene y Seguridad</h3><br>
-                                </div>
-                            </div>
-                            <div class="media contact-info">
-                                <span class="contact-info__icon"><i class="ti-layout-grid3-alt" style="color: #2b4b80;"></i></span>
-                                <div class="media-body">
+                                <div class="media-body" id="8-item">
                                     <h3>Lic. en Comunicación Social</h3><br>
                                 </div>
                             </div>
@@ -262,8 +241,8 @@
                         <div class="col-md-3">
                             <div class="media contact-info">
                                 <span class="contact-info__icon"><i class="ti-layout-grid3-alt" style="color: #2b4b80;"></i></span>
-                                <div class="media-body">
-                                    <h3>Ing. Civil</h3><br>
+                                <div class="media-body" id="9-item">
+                                    <h3>Lic. en Higiene y Seguridad</h3><br>
                                 </div>
                             </div>
                             <div class="media contact-info">
@@ -274,8 +253,29 @@
                             </div>
                             <div class="media contact-info">
                                 <span class="contact-info__icon"><i class="ti-layout-grid3-alt" style="color: #2b4b80;"></i></span>
-                                <div class="media-body">
+                                <div class="media-body" id="10-item">
+                                    <h3>Ing. Civil</h3><br>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-3">
+                            <div class="media contact-info">
+                                <span class="contact-info__icon"><i class="ti-layout-grid3-alt" style="color: #2b4b80;"></i></span>
+                                <div class="media-body" id="11-item">
                                     <h3>Topógrafo</h3><br>
+                                </div>
+                            </div>
+                            <div class="media contact-info">
+                                <span class="contact-info__icon"><i class="ti-layout-grid3-alt" style="color: #2b4b80;"></i></span>
+                                <div class="media-body" id="12-item">
+                                    <h3>Logística Integral</h3><br>
+                                </div>
+                            </div>
+                            <div class="media contact-info">
+                                <span class="contact-info__icon"><i class="ti-layout-grid3-alt" style="color: #2b4b80;"></i></span>
+                                <div class="media-body" id="13-item">
+                                    <h3>Arquitecto</h3><br>
                                 </div>
                             </div>
                         </div>

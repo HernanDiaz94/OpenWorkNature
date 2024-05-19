@@ -440,10 +440,31 @@
                                 </div>
                             </div>
 
+                            <div class="carousel-item">
+                                <div class="col-lg-2 col-md-6">
+                                    <img class="img-fluid" src="logos21/z37.jpg">
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="col-lg-2 col-md-6">
+                                    <img class="img-fluid" src="logos21/z38.jpg">
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="col-lg-2 col-md-6">
+                                    <img class="img-fluid" src="logos21/z39.jpg">
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="col-lg-2 col-md-6">
+                                    <img class="img-fluid" src="logos21/z40.jpg">
+                                </div>
+                            </div>
+
                             <!-- Nuevo logo aqui
                         <div class="carousel-item">
                             <div class="col-lg-2 col-md-6">
-                                <img class="img-fluid" src="logos21/z27.jpg">
+                                <img class="img-fluid" src="logos21/z00.jpg">
                             </div>
                         </div>
                     -->
